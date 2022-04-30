@@ -1,8 +1,8 @@
-package com.kuang;
+package com.sayme;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
-import com.kuang.mapper.UserMapper;
-import com.kuang.pojo.User;
+import com.sayme.mapper.UserMapper;
+import com.sayme.pojo.User;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

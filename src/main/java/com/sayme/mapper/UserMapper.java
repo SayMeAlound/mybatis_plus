@@ -1,7 +1,7 @@
-package com.kuang.mapper;
+package com.sayme.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.kuang.pojo.User;
+import com.sayme.pojo.User;
 import org.springframework.stereotype.Repository;
 
 // 在对应的Mapper上面继承基本的类 BaseMapper
